@@ -1,0 +1,19 @@
+# main links
+main:
+  - title: "구성원"
+    url: /about/
+  - title: "과정"
+    url: /course/
+  - title: "관련링크"
+    url: http://arosis.co.kr
+    target: _blank
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
